@@ -11,18 +11,12 @@
 				"fish",
 				"glow",
 				"gum",
-				"gnome-shell-extension-appindicator",
-				"gnome-shell-extension-blur-my-shell",
-				"gnome-shell-extension-dash-to-dock",
-				"gnome-shell-extension-gsconnect",
-				"gnome-shell-extension-tailscale-status",
 				"input-remapper",
 				"libgda-sqlite",
 				"libgda",
 				"libratbag-ratbagd",
 				"libxcrypt-compat",
 				"mesa-libGLU",
-				"nautilus-gsconnect",
 				"pulseaudio-utils",
 				"python3-pip",
 				"samba-dcerpc",
@@ -31,14 +25,14 @@
 				"samba-winbind-modules",
 				"samba",
 				"solaar",
+				"easyeffects",
 				"stress-ng",
 				"tailscale",
 				"tmux",
 				"ublue-update",
 				"wireguard-tools",
 				"xprop",
-				"yaru-theme",
-				"wl-clipboard", 
+				"wl-clipboard",
 				"zsh"
 			],
 			"bluefin-dx": [
@@ -124,9 +118,6 @@
 			"bluefin": [
 				"firefox-langpacks",
 				"firefox",
-				"gnome-extensions-app",
-				"gnome-software-rpm-ostree",
-				"gnome-tour",
 				"ublue-os-update-services"
 			],
 			"bluefin-dx": []
@@ -148,7 +139,7 @@
 	"39": {
 		"include": {
 			"bluefin": [
-				"input-leap"	
+				"input-leap"
 			],
 			"bluefin-dx": [],
 			"bluefin-framework": []
