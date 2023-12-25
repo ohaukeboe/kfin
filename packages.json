@@ -8,6 +8,8 @@
 				"fish",
 				"glow",
 				"gum",
+				"hplip",
+				"ifuse",
 				"input-remapper",
 				"libgda-sqlite",
 				"libgda",
@@ -49,6 +51,8 @@
 				"code",
 				"containerd.io",
 				"dbus-x11",
+                                "devpod",
+				"distrobuilder",
 				"docker-ce",
 				"docker-ce-cli",
 				"docker-buildx-plugin",
@@ -102,7 +106,9 @@
 	},
 	"38": {
 		"include": {
-			"bluefin": [],
+			"bluefin": [
+				"gnome-shell-extension-tailscale-status"
+			],
 			"bluefin-dx": [],
 			"bluefin-framework": []
 		},
@@ -115,16 +121,14 @@
 	},
 	"39": {
 		"include": {
-			"bluefin": [
-				"input-leap"
-			],
+			"bluefin": [],
 			"bluefin-dx": [],
 			"bluefin-framework": []
 		},
 		"exclude": {
 			"bluefin": [
 				"podman-docker",
-     "gnome-terminal-nautilus"
+				"gnome-terminal-nautilus"
 			],
 			"bluefin-dx": [],
 			"bluefin-framework": []
